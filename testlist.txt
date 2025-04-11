@@ -1,0 +1,500 @@
+
+17-Hydroxy Progesterone
+24 hour Urine for Citrate
+24 hours Stool for Fat Examination
+24 hours Urine Aldosterone
+24 hours Urine Cortisol Level
+24 hours Urine for 5 Hydroxy Indole Acetic Acid (HIAA)
+24 hours Urine for Calcium/Creatinine Ratio
+24 hours Urine for Catecholamines
+24 hours Urine for Creatinine
+24 hours Urine for Cystine
+24 hours Urine for Oxalate
+24 hours Urine for Magnesium
+24 hours Urine for Mucopolysaccharides
+24 hours Urine for Oxalate
+24 hours Urine for oxalate crystals
+24 hours Urine for PO 4 (Phosphate)
+24 hours Urine for Porphobilinogen
+24 hours Urine for Protein/Albumin
+24 hours Urine for Urates/Uric Acid
+24 hours Urine for Urea
+24 hours Urine for Venyl Mandelic Acid (VMA)
+24 hours/ Spot Urine for Calcium
+24 hours/Spot Urine for Microalbumin
+24 hours/Spot Urine for Potassium
+24 hours/Spot Urine for Sodium
+25-Hydroxy Vitamin D
+Anti HBc Total
+Anti HBc IgM
+Anti Gonococcal Antibodies
+Anti Golgi Apparatus Antibodies
+Anti Glomerular Basement Membrane (GBM) antibodies
+Anti Gliadin Antibodies
+Anti Endomyseal Antibodies
+Anti Echinococcus Antibodies
+Anti Double Stranded DNA
+Anti Cyclic Citrullinated Peptide (CCP)
+Anti Centromere Antibodies
+Anti Centriole Antibodies
+Anti Cardiolipin IgM Antibody Test
+Anti Brucella Antibodies
+Anti Amoeba Antibodies
+Anti Adrenal Antibodies
+Angiotensin Converting Enzyme (ACE) Level
+Androstenedione Levels
+Amylase
+Amoebiasis Indirect Hemagglutination (IHA)
+Alpha-1 Antitrypsin Levels
+Alpha FetoProtein (AFP)
+Alkaline Phosphatase
+Aldosterone
+Aldolase
+Albumin/Globulin Ratio
+Albumin
+Alanine Aminotransferase (ALT)
+Adreno Cortico Trophin Hormone (ACTH) Level
+Activated Partial Thromboplastin Time (APTT) or Partial Thromboplastin Time with Kaolin (PTTK)
+Acetylcholine Receptor Antibodies
+Absolute T&B Lymphocytes Count
+Absolute Neutrophil Count
+Absolute Values
+Absolute Lymphocyte Count
+Absolute Eosinophil Count
+Coomb’s Test
+Anti HBe Test
+Anti HBs Ab
+Anti HEV IgG
+Anti Histone Antibodies
+Anti Histone Antibodies
+Anti Intrinsic Factor
+Anti JO-I Antibodies
+Anti La (SSB) Antibodies
+Anti Legionella Antibodies
+Anti Leishmania Antibodies
+Anti Liver Kidney Microsomal Ab
+Anti Mitochondrial Antibodies
+Anti Muellarian Hormone
+Anti Myelin Antibodies
+Anti Nuclear Cytoplasmic Antibody (ANCA) p&c
+Anti Nuclear Factor (ANF)/ Anti Nuclear Antibody (ANA)
+Anti Parietal cell Antibodies
+Anti Reticulin Antibodies
+Anti RNA Antibody
+Anti RO (SSA) – Antibodies
+Anti ScL70 Antibody
+Anti serum antibodies
+Anti Skeletal Muscle Antibody
+Anti Smooth Muscle Antibodies
+Anti Sperm Antibodies
+Anti Spindle Antibodies
+Anti Streptolysin O Ab
+Anti Testicular Antibodies
+Anti Toxoplasma Antibodies
+Anti Transglutaminase IgA
+Anti Transglutaminase IgG
+Anti-Cardiolipin Antibody
+Anti-Cardiolipin IgG Antibody
+Anticholinestrase Antibody
+Anti-Microsomal Thyroid Antibodies
+Antiphospholipid Antibody
+Arterial Blood Gases (ABGs)
+Ascitic Fluid for Culture Sensitivity (C/S)
+Ascitic Fluid for malignant cells
+Ascitic Fluid for Routine Examination
+ASOT
+Aspartate Aminotransferase (AST), Cardiac
+Aspartate Aminotransferase (AST), Hepatic
+Aspirate for Culture Sensitivity (C/S)
+Aspirate for Malignant Cells
+Aspirate for Routine Examination (RE)
+B2 Microglobulin
+Basophilic Stippling
+B-HCG Test
+Bicarbonate Levels
+Bile for Culture Sensitivity (C/S)
+Bilirubin Direct/Indirect
+Bleeding Time
+Blood Complement Fixation Test (CFT)
+Blood Complete Picture (CP)
+Blood for Alcohol
+Blood for Culture Sensitivity (C/S)
+Blood for Filaria
+Blood for Methemoglobin
+Blood Grouping (ABO)
+Blood Grouping (Rh)
+Blood Urea Nitrogen
+Blood/Urine for Xylose Absorption
+Bone for Culture Sensitivity (C/S)
+Bone Marrow
+Bone Marrow Aspiration
+Bone Marrow for Leishmania Donovan (LD) Bodies
+Bone Marrow Slides for Review
+Bone Marrow Trephine
+Brain Natriuretic Peptide (BNP)
+Bronchial Washings for Routine Examination (RE)
+Buccal Smear for Barr Body
+C-3 Levels
+CA-125 levels
+CA-15-3
+CA-19-9
+Calcitonin
+Calcium
+Carbamezapine (Tegretol)
+Cardiac Enzymes (CPK, LDH & AST)
+Casoni’s Test for Hydatid Cyst
+Catheter Tip for Culture Sensitivity (C/S)
+CD 4 + 8 Lymphocyte Count
+CEA test
+Cerebrospinal Fluid (CSF) for Culture Sensitivity (C/S)
+Cerebrospinal Fluid (CSF) for Mycodot Test
+Cerebrospinal Fluid (CSF) for Oligoclonal Banding
+Cerebrospinal Fluid (CSF) for Polio Virus
+Cerebrospinal Fluid (CSF) for Routine Examination (RE)
+Cerebrospinal Fluid (CSF) for Viral Studies (HS-1 &2)
+Cerruloplasmin
+Cervical Swab for Culture Sensitivity (C/S)
+Chloride
+Cholesterol
+Clotting Time
+Complement C3 & C4
+Complement Test for Hydatid Cyst
+Coomb’s Test
+Copper
+Cortisol 4PM
+Cortisol 8 AM
+Cortisol 8 PM
+Cortisol after 03 days of Dexamethasone
+Cortisol after 05 mg Dexamethasone
+Cortisol after Adrenocorticotrophin Hormone (ACTH) Stimulation
+C-Peptide Test
+C-Reactive Protein
+Creatinine
+Creatinine Clearance
+Creatinine Kinase (CK)-MB
+Creatinine Phospho Kinase (CPK)
+Crimean Congo Haemorrhagic Fever (CCHF) by Polymerase Chain Reaction (PCR)
+Cryoglobulin
+Cryoprecipitate Screening
+Culture Sensitivity (C/S) for Anaerobes
+Culture Sensitivity (C/S) for Fungus
+Cyclosporin Level
+Cytomegalovirus (CMV) IgM and IgG Level
+Cytology
+D-Dimers
+Fluid for Acid Fast Bacillus (AFB) by Polymerase Chain Reaction (PCR)
+Dengue IgG & IgM
+Dengue NS 1 Antigen & Antibody
+Differential Leucocyte Count (DLC)
+Digoxin
+Dihydroepiandrosterone (DHEA) SO 4
+Ear Swab for Culture Sensitivity (C/S)
+Echinococcus antibody test
+Electrolytes
+Electrolytes (Renal)
+Electrophoresis Protein (Urine)
+Endometrium for Acid Fast Bacillus (AFB) Culture Sensitivity (C/S)
+Endometrium for Culture Sensitivity (C/S)
+Erythrocyte Sedimentation Rate (ESR)
+Erythropoietin Levels
+Estrogen & Progesterone Receptors (ER/PR)
+Estrogens (Female)
+Estrogens (Male)
+Eye Swab Culture Sensitivity (C/S)
+Extractable Nuclear Antibody (ENA) Test
+Factor-V Laden
+Fibrin Degradation Products (FDP)
+Fine Needle Aspiration (FNA)
+Fluid for Acid Fast Bacillus (AFB) Culture Sensitivity (C/S)
+Fluid for Adenosine Deaminase Test (ADA)
+Fluid for Culture Sensitivity (C/S)
+Fluid for Gram’s Staining
+Fluid for Routine Examination (RE)
+Fluid Lactate Degydrogenase (LDH)
+Fluorescence Test for Syphilis
+Folic Acid (Folate) Levels
+Follicle Stimulating Hormone (FSH)
+Free Triaiodothyronine (T3)
+Free Thyroxine (T4)
+FSH (Male)
+Fungal Test
+Gamma Glutamyltranferase (GGT)
+Gall Stone for Analysis
+Gamma Globulin Levels
+Gastrin Levels
+Globulin
+Glucose (02 hour Post Parandial)
+Glucose (1/2 hour before any meal)
+Glucose (Fasting)
+Glucose (Random)
+Glucose- 6 Phosphate Dehydrogenase Test (G-6-PD Test)
+Glucose after 75 g Glucose Load
+Glucose Challenge Test (GCT)
+Glycosylated Hb%
+Growth Hormone (GH) after Exercise
+Growth Hormone (GH) after L-Dopa
+Growth Hormone (GH) Basal
+Growth Hormone Profile
+Guinea Pig Inoculation Test
+H Pylori Antibody Test
+H.Pylori in Stool (HPSA)
+Haemoglobin (Hb)
+Haptoglobulin Levels
+Hb Studies (Electrophoresis)
+HBe Ag test
+HBs Antigen
+Heamagglutination for Gonococcus (GC)
+Hepatitis A IgM
+Hepatitis B Core Antibody Total
+Hepatitis B Core IgM
+Hepatitis B DNA
+Hepatitis B Quantitative Polymerase Chain Reaction (PCR)
+Hepatitis C Virus (HCV) Antibody
+Hepatitis B Virus by Polymerase Chain Reaction (PCR)
+Hepatitis C Virus (HCV) Genotyping
+Hepatitis C Virus (HCV) Quantitative
+Hepatitis C Virus (HCV) RNA by Polymerase Chain Reaction (PCR)
+Hepatitis Delta (D) by Polymerase Chain Reaction (PCR)
+Hepatitis E Virus (HEV) IgM
+HER Neu-2
+Herpes Simplex IgG
+Herpes Simplex IgM
+High Density Lipoprotein (HDL)
+Histopathology of Large Specimens
+HLA B27 by Polymerase Chain Reaction (PCR)
+Histopathology of Small Biopsy Specimens
+Howell Jolly Bodies
+Human Immunodeficiency Virus (HIV)
+IgA Levels
+IgE (Total)
+IgG Levels
+IgM Levels
+Kleihaeur’s Test
+Immature Cells
+Immuno Fluorescence Studies
+Immunochromatographic Test (ICT) for Malaria
+Immunochromatographic Test (ICT) for Mycobacterium Tuberculosis (TB)
+Immunofixation
+Immunofluorescence (IF) Studies
+Immunoglobulin (IgA, IgG & IgM)
+Immunohistochemistry (IHC)
+Insulin Level
+Insulin like Growth Factor
+International Normalised Ratio (INR)
+Intrauterine Contraceptive Device (IUCD) for Culture Sensitivity (C/S)
+Lactate Dehydrogenase (LDH)
+LE Cells
+Lead Levels
+Leishmania Antibodies
+Leishmania Donovan (LD) bodies
+Leishmania in Blood Film
+Leutinising Hormone (LH)
+Lipase
+Lipid profile
+Lithium
+Liver Function Tests (LFTs)
+Low Density Lipoprotein (LDL)
+Mantoux Test
+Lupus Anticoagulant Test
+Magnesium
+Malarial Parasite (MP) in Blood Film
+Malarial Parasite (MP) Test
+Mean Corpuscular Volume (MCV)
+Measles Antibody Titre
+Milk for Culture Sensitivity (C/S)
+Milk for Microbiological Testing
+Milk for Routine Examination (RE)
+Mixing Studies
+Monospot Test
+Mycobacterium Tuberculosis (TB) by PCR (MTB DNA BY PCR)
+Mycodot IgG by Enzyme Linked Immunosorbent Assay (ELISA)
+Mycodot IgM by Enzyme Linked Immunosorbent Assay (ELISA)
+Nail Scrapings for Microscopy
+Nasal Swab for Culture Sensitivity (C/S)
+Neutrophil Morphology
+Neutrophil Adherence Assay
+Neutrophil Candida Killing Test
+Nipple Discharge for Culture Sensitivity (C/S)
+Packed Cell Volume (PCV) /Haematocrit Test
+PAP Smear
+Parathormone (PTH)
+Paul Bunnell Test
+Pericardial Fluid for Routine Examination (RE)
+Peritoneal Fluid for Culture Sensitivity (C/S)
+Phenobarbitone Levels
+Phenytoin (Dilantin)
+Phosphorus
+Plasma Antithrombin-III levels
+Plasma Fibrinogen
+Plasma Lactate
+Plasma Homocysteine
+Plasma Osmolality
+Plasma Protein C Levels
+Plasma Protein S Levels
+Plasma Renin Activity (PRA)
+Plasma Zinc
+Platelet Count
+Pleural Fluid for Culture Sensitivity (C/S)
+Pleural Fluid for Lactate Dehydrogenase (LDH)
+Pleural fluid for Malignant Cells
+Pleural fluid for Mycobacterium (TB) Polymerase Chain Reaction (PCR)
+Pleural Fluid for Routine Examination (RE)
+Polymerase Chain Reaction (PCR) Quantitative Hepatitis B
+Rubella IgM
+Potassium
+Pregnancy in Dilution
+Pregnancy Test
+Progesterone
+Prolactin
+Prostate Specific Antigen (PSA)
+Protein C & S
+Protein Electrophoresis
+Prothrombin Time
+Pus for Culture Sensitivity (C/S)
+Rabies Antibody
+Rapid Plasma Reagin (RPR))
+Rectal Swab for Culture Sensitivity (C/S)
+Red Blood Cell (RBC) Count
+Red Blood Cell (RBC) Folate Level
+Red Blood Cell (RBC) Morphology
+Red Blood Cell (RBC) Size in Urine
+Renal Stone for Analysis
+Reticulocyte Count
+Rh Antibody Test
+Rheumatoid Arthritis (RA) Factor
+Rheumatoid Arthritis (RA) Factor in Dilution
+Rheumatoid Arthritis (RA) Factor Quantitative
+Rubella IgG
+Rubella IgM
+Saturation of Transferrin
+Semen Analysis
+Semen Concentrate for In Vitro Fertilisation (IVF)
+Semen Culture
+Semen for Acid Fast Bacillus (AFB) Culture Sensitivity (C/S)
+Semen for Culture Sensitivity (C/S)
+Serum Acetone
+Serum B-12
+Serum Erythropoietin
+Serum Ferritin
+Serum Folate
+Synovial Fluid for Routine Examination (RE)
+Serum Iron
+Serum Osmolality
+Serum Thyroglobulin
+Serum Total Iron Binding Capacity (TIBC)
+Serum Zinc
+Sex Hormone Binding Globulin
+Slides/Blocks for Consultation
+Smear for Chlamydia Test
+Smear for Leishmania
+Smear for Leishmania Donovan (LD) Bodies
+Sodium
+Specimen for Acid Fast Bacillus (AFB) Culture Sensitivity (C/S)
+Specimen for Culture Sensitivity (C/S)
+Sperm Antibody in Semen
+Spot Urine for Homocystine
+Spot Urine for Copper
+Spot Urine for Nitrite
+Spot Urine for Phosphorus
+Spot Urine for Uric Acid
+Sputum for Acid Fast Bacillus (AFB)
+Sputum for Acid Fast Bacillus (AFB) Culture Sensitivity (C/S)
+Sputum for Culture Sensitivity (C/S)
+Sputum for Gram Staining
+Sputum for Routine Examination (RE)
+Stool Fat Examination
+Stool for Acid Fast Bacillus (AFB) Test
+Stool for Culture Sensitivity (C/S)
+Stool for Malignant Cells
+Stool for Occult Blood
+Stool for Reducing Substances
+Stool for Vibrio Cholera
+Stool pH
+Stool Routine Examination
+Sugar (2 hours after Breakfast)
+Sugar (Fasting)
+Sugar (Random)
+Sugar Curve Glucose Tolerance Test (GTT)
+T3
+Tacrolimus Levels
+Testosterone (Female)
+Testosterone (Male)
+Throat Swab for Culture Sensitivity (C/S)
+Thrombin TimeThrombin Time
+Thyroglobulin Antibodies
+Thyroid Antibodies
+Thyroid Profile (T3, T4 & TSH)
+Thyroid Stimulating Hormone (TSH) Third Generation
+Tissue for Culture Sensitivity (C/S)
+TORCH Profile
+Typhidot
+Total Leucocyte Count
+Total Lipids
+Total Proteins
+Total T4
+Total Vitamin D
+Toxoplasma IgG
+Toxoplasma IgG
+Toxoplasma IgM Titre
+Transferrin Levels
+Treponema Pallidum Haemagglutination (TPHA) Test
+Triglycerides
+Troponin T
+Troponin T (Trop-T)
+Urea
+Urethral Smear for Gonococci (GC)
+Urethral Smear for Routine Examination (RE)
+Urethral swab for Culture Sensitivity (C/S)
+Uric Acid
+Urine 17-Ketosteroids
+Urine Albumin
+Urine Amylase
+Urine Bence Jones Protein
+Urine Bile Salt and Bile Pigment
+Urine Chloride
+Urine for Acid Fast Bacillus (AFB)
+Urine Urobilinogen
+Urine for Amphetamines
+Urine for Barbiturates
+Urine for Benzodiazepines
+Urine for Cannabanoids
+Urine for Coccaine
+Urine for Culture Sensitivity (C/S)
+Urine for Cytology
+Urine for Fungus Culture
+Urine for Fungus Culture Sensitivity (C/S)
+Urine for Haemosiderin
+Urine for Hemoglobinuria
+Urine for Immunofixation
+Urine for Metabolic Screening
+Urine for Mycobacterium Tuberculosis (TB) by Polymerase Chain Reaction (PCR)
+Urine for Myoglobin
+Urine for Opiates
+Urine for Porphyrins
+Urine for Reducing Substances
+Urine for Sterility Test
+Urine for Ziehl Neelsen (ZN) Stain
+Urine Hydroxy Indole Acetic Acid (HIAA)
+Urine Ketone Bodies
+Urine Osmolality
+Urine pH
+Urine Protein:Creatinine Ratio
+Urine Routine Examination (RE)
+Urine for Acid Fast Bacillus (AFB) Culture Sensitivity (C/S)
+Urine Specific Gravity
+Urine Sugar
+Urine sugar 02 h after Breakfast
+Vaginal Swab for Culture Sensitivity (C/S)
+Valproic Acid
+Varicella Zoster Antibodies
+Venereal Disease Research Laboratory (VDRL) in dilution (Quantitative)
+Vitamin D Levels
+Water Deprivation test
+Water for Microbiological Testing
+Weil Felix Test
+White Blood Cell (WBC) Count
+Widal
+Wassermann Reaction (WR) Kahn Test
+Anti-SARS-CoV-2 S for post vaccine covid 19 antibody detection
+IL-6 for detection of ongoing immune response
+SARS-CoV-2 Rapid Antigen Test for quick detection of Covid 19 Virus in point of care environment

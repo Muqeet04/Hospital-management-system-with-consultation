@@ -1,0 +1,16 @@
+Patient Number: 123
+Patient Name: Muqeet
+Date/Time: Sat Apr 12 00:58:42 2025
+Symptoms: fever, body_ache, fatigue, 
+Risk Score: 1
+Potential Conditions: covid_like, respiratory_infection, 
+Recommended Actions: Urgent medical attention required; Immediate hospital consultation recommended; Potential emergency condition; 
+
+Patient Number: 138
+Patient Name: Ali
+Date/Time: Sat Apr 12 01:03:29 2025
+Symptoms: fatigue, shortness_breath, wheezing, weight_loss, 
+Risk Score: 1
+Potential Conditions: pneumonia, 
+Recommended Actions: Urgent medical attention required; Immediate hospital consultation recommended; Potential emergency condition; 
+
